@@ -1,9 +1,5 @@
-# imooc-webpack
-This is example code for imooc students
 
-# Lesson-name: Webpack 3 前端工程化(Webpack 3 front-end work flow)
-# Lesson-url: https://coding.imooc.com/class/171.html
-# content
+# Webpack 3 前端工程化(Webpack 3 front-end work flow)
 
 
 * 第一章 课程简介
@@ -68,5 +64,4 @@ This is example code for imooc students
 
 * 第九章 课程总结
     * 9.1 Webpack 面试常见问题
-    * 9.2 课程回顾以及结语
 
