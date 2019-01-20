@@ -109,7 +109,7 @@ module.exports = {
             },
 
             {
-                test: path.resolve(__dirname, 'src/app.js'),
+                test: path.resolve(__dirname, 'src/app.js'),//往这个app.js模块注入jquery
                 use: [
                     {   
                         // 使用 imports-loader 注入
